@@ -1,0 +1,7 @@
+1) OpenAI, OpenPyExcel, langdetect, pandas, dotenv, pdfplumber
+2) Use regex to get the data and give it to the AI
+3) The AI should generate a summary or some other analysis.
+4) The AI gives an output -> I convert it to a pandas dataframe and then I convert it to excel.
+5) Buy the OpenAI API. Get the API Key.
+6) Use GPT-5 Fast (optional)
+7) Convert the output from the LLM into markdown
