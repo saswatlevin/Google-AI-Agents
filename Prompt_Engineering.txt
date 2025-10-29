@@ -1,0 +1,43 @@
+=======PROMPTING=======
+It is the process of providing specific instructions to a GenAI tool to receive new information or to achieve a desired outcome on a task 
+=======PROMPTING=======
+
+There are 5 steps to designing a prompt: Task, Context, References, Evaluate, Iterate -> TCREI
+
+A TASK prompt can be improved by adding a Persona to it.
+We can also improve the structure of the output by specifying the structure.
+
+==========CONTEXT===========
+* Another thing that we can do is improve a prompt by adding CONTEXT to it. 
+* CONTEXT is information related to the thing that we've asked for information about. 
+* The more CONTEXT we can provide, the better.
+==========CONTEXT===========
+
+==========REFERENCES========
+A reference is an example
+==========REFERENCES========
+
+AIs are always good at incorporating references (examples)
+
+==========EVALUATE==========
+This refers to evaluating, i.e., looking at the quality of the information output by the prompt.
+==========EVALUATE==========
+
+==========ITERATE===========
+We must repeat the process, i.e., Define the Task, Add more Context, change References and Evaluate the information as needed.
+==========ITERATE===========
+
+The motto of the Google Course was "Always Be Iterating".
+
+=========THE 4 ITERATION METHODS==========
+1) Revisit the prompting framework -> Frame the TASK better, provide more CONTEXT, better REFERENCES or add a better PERSONA
+2) Separate the prompt into shorter sentences and feed it to it very slowly
+3) Try different phrasing or switch to an analogous task. Eg - Instead of asking it to write an essay about marketing, ask it to say how a product should fit into people's lives.
+4) Introduce Constraints -> Put conditions / limits on the type of output you want
+=========THE 4 ITERATION METHODS==========
+
+NOTE: The 4 iteration methods can be summarized by the following mnemonic -> Ramen Saves Tragic Is
+
+
+
+
